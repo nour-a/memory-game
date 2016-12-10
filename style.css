@@ -1,0 +1,19 @@
+.container{
+	background:#555;
+	border:#999 1px solid;
+	width:535px;
+	height:400px;
+	padding:24px;
+	margin:0px auto;
+}
+#sq0, #sq1, #sq2, #sq3, #sq4, #sq5, #sq6, #sq7, #sq8, #sq9, #sq10, #sq11{
+	border:#000 1px solid;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+}
